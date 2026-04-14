@@ -38,7 +38,6 @@ Me especializo en el desarrollo de soluciones tecnológicas y en la enseñanza d
 
 </p>
 
----
 
 ## Enfoque profesional
 
@@ -49,13 +48,7 @@ Me especializo en el desarrollo de soluciones tecnológicas y en la enseñanza d
 
 ---
 
-## Actividad
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gemaoortizprivados23-lgtm&show_icons=true&theme=default" />
-</p>
-
----
 
 ## Proyección
 
