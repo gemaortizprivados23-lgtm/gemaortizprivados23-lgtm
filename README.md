@@ -75,7 +75,7 @@ Esta integración me permite desarrollar soluciones tecnológicas que combinan f
 ## Proyectos Destacados *(En desarrollo)*
 
 Este perfil se construye como parte de mi proceso de formación en Kodigo, incorporando progresivamente:
-
+ 
 - Sistemas web desarrollados con Laravel  
 - Aplicaciones backend con Node.js  
 - Proyectos académicos estructurados  
@@ -83,7 +83,7 @@ Este perfil se construye como parte de mi proceso de formación en Kodigo, incor
 - Soluciones tecnológicas integrales  
 
 Cada proyecto representa evidencia del desarrollo de competencias técnicas adquiridas durante el proceso formativo.
-
+ Guia basica Git https://github.com/gemaortizprivados23-lgtm/pruebaclase.git
 ---
 
 ## Proyección Profesional
